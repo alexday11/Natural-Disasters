@@ -1,6 +1,6 @@
 # Natural Disasters
 
-### **Project 5: Neural Disasters**
+### **Project : Neural Disasters**
 
 In this project, we delve into the profound impacts of natural disasters, ranging from earthquakes and floods to storms, droughts, and forest fires. While the overall global mortality rate from natural disasters is relatively low, their effects can be disproportionately severe, particularly in vulnerable populations and low- to middle-income countries lacking sufficient infrastructure for effective disaster prevention and response.
 
